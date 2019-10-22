@@ -3,8 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blueprintjs/core": "^3.19.1",
+    "@blueprintjs/datetime": "^3.14.0",
+    "@blueprintjs/icons": "^3.11.0",
+    "date-fns": "^2.5.1",
+    "moment": "^2.24.0",
     "react": "^16.10.2",
+    "react-color": "^2.17.3",
+    "react-datepicker": "^2.9.6",
     "react-dom": "^16.10.2",
+    "react-drag-drawer": "^3.3.1",
     "react-scripts": "3.2.0"
   },
   "scripts": {
